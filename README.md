@@ -111,7 +111,7 @@ Tính năng demo tối thiểu:
 
 ---
 
-## 8. Cấu trúc thư mục (gợi ý)
+## 8. Cấu trúc thư mục
 ```text
 .
 ├─ data/
