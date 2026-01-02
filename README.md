@@ -2,8 +2,6 @@
 
 > Đồ án/Đề tài: Ứng dụng khai phá dữ liệu & Machine Learning để phát hiện bất thường hành vi người dùng (UEBA) và hỗ trợ SOC (AI-SOC).  
 > Môn/HP: CS2205 (SEP2025)  
-> Nhóm: [Team Name] — GVHD: [Name]  
-> Demo: [YouTube/Drive Link] • Repo: [GitHub Link]
 
 ---
 
